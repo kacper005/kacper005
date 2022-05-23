@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kacper005
-- 👀 I’m interested in Angular 9/10, Typescript, JavaScript, HTML , CSS , C# , echarts & python.
-- 🌱 I’m currently learning programming.
+- 👀 I’m interested in React, Typescript, JavaScript, HTML , CSS , C# , echarts & python.
 
 <!---
 kacper005/kacper005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
